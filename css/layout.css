@@ -2,7 +2,7 @@
 
 body {
   background-image: url(/images/meeenz.jpg);
-  background-color: black;
+  background-color: white;
   background-repeat: no-repeat;
   background-position: center top;
   font-family: "Droid Sans", Verdana, Helvetica, sans-serif;
@@ -61,7 +61,6 @@ body {
 }
 
 
-/* Provide higher res assets for iPhone 4 */
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) { 
 
